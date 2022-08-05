@@ -1,0 +1,33 @@
+/* this is my CV style */
+.titlesection{
+    background-color: #af4154;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 200px;
+    padding: 20px 40px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.section{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 200px;
+    background-position: left bottom;
+}
+.devi{ 
+    width: 800px;
+    padding: 0px 20px;
+}
+.devismall{
+    width: 300px;
+    padding: 0px 10px;
+}
+.social-icons {
+    color: #af4154;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.name{
+    font-size: 30px;
+    font-weight: bolder;
+}
